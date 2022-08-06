@@ -180,15 +180,24 @@ h1{
 
 }
 
-@media only screen and ( max-width: 790px){
 
-    .botones button{
-        padding: 30px;
-        width: 160px;
-        margin:40px;
-        border-radius: 40px;
-        font-size: 16px;
+
+@media only screen and ( max-width: 823px){
+
+    .figure{
+        height: auto;
     
+    }
+    .figureActor{
+        height: auto;
+    }
+
+    h1{
+        margin:20px
+    }
+
+    .texto p {
+        margin:20px
     }
 
 }
@@ -208,4 +217,6 @@ h1{
     }
 
 }
+
+
 
